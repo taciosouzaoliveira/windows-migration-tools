@@ -1,10 +1,13 @@
 # Windows & Office Migration Suite (MGI Project)
 
+
+![Fluxograma de Automação de Migração](fluxo.png)
+
 Este repositório contém ferramentas de automação desenvolvidas para otimizar o processo de migração de locatários (*tenants*) Microsoft 365 e a desvinculação de dispositivos Azure AD.
 
 ---
 
-## Destaques das Melhorias (v2.0)
+##  Destaques das Melhorias (v2.0)
 
 O projeto evoluiu para garantir mais segurança e reduzir falhas humanas durante a operação:
 
@@ -15,7 +18,7 @@ O projeto evoluiu para garantir mais segurança e reduzir falhas humanas durante
 
 ---
 
-## Ferramentas Incluídas
+##  Ferramentas Incluídas
 
 ### 1. Limpeza de Cache (Batch)
 Focada em resolver problemas de login e licenciamento pós-migração.
@@ -29,5 +32,5 @@ Assistente para desvinculação segura do registro do Azure AD (`dsregcmd /leave
 
 ---
 
-### Técnico Responsável
+###  Técnico Responsável
 **Tácio Souza**
